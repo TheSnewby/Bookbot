@@ -1,2 +1,2 @@
 # Bookbot
-This is the first project from **Boot.Dev** utilizing VS and github. Not sure what the bookbot is even supposed to do yet.
+This is the first project from **Boot.Dev** utilizing VS and github. It counts the number of words and letters in the book Frankenstein by Mary Shelley.
